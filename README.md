@@ -2,12 +2,14 @@
 
 VR Padel Tactics is the result of my end of degree thesis.
 
-It's a padel VR simulator that recreates game situations from the Men's final round of World Padel Tour's Estrella Damm Open 2020.
+It's a padel VR simulator that recreates parts of the Men's final round of **World Padel Tour's Estrella Damm Open 2020**.
 Using metadata extracted from the video recording of the match, I'm able to estimate ball paths and begin a random simulation.
-The user is able to interact with the ball, but to make sure technique doesn't get in the way, he or she can choose the target and height of the path instead of using a racket.
-The system is capable of evaluating the performance of the shot executed by the user, and provide insight from a tactical point of view. Specifically, the shot is rated by a logistic regression, and the user can choose the watch the expert shot.
 
-I've implemented the project in Unity, using the Open XR library to assist with the user's interaction with the virtual world using Meta Quest 2.
+The user is able to interact with the ball, but to make sure technique doesn't get in the way, they can choose the target and height of the path instead of using a racket.
+
+The system is capable of evaluating the performance of the shot executed by the user, and provide insight from a tactical point of view. Specifically, the shot is rated by a logistic regression, and the user can choose to watch the expert shot.
+
+I've implemented the project in `Unity`, using `Open XR` to assist with the user's interaction through Meta Quest 2.
 
 
 ## Usage
@@ -17,7 +19,7 @@ I've implemented the project in Unity, using the Open XR library to assist with 
 3. You can either choose to build and executable or use Unity's Editor to run the application.
 4. Immerse yourself into the experience.
 5. Interact with the user interface with your right controller, pressing its trigger to select menu options.
-6. Start playing a random shot. Choose the location where you want to answer, bring closer the racket to the ball, and select target and height.
+6. Start playing a random shot. Choose the location where you want to answer, and select target and height.
 7. Receive an score and optionally wathc the expert response to this game situation.
 8. Start again :)
 
@@ -27,23 +29,23 @@ Here you can see how the previously described process looks like:
 
 1. Starting menu interaction
 
-![alt text](Images/menu1.PNG)
+<img src="Images/menu1.PNG" width="200" height="150" alt="Image description">
 
 2. Response location choice
 
-![alt text](Images/teleport.PNG)
+<img src="Images/teleport.PNG" width="200" height="150" alt="Image description">
 
 3. Target location choice
 
-![alt text](Images/target.PNG)
+<img src="Images/target.PNG" width="200" height="150" alt="Image description">
 
 4. Maximum height choice
 
-![alt text](Images/height.PNG)
+<img src="Images/height.PNG" width="200" height="150" alt="Image description">
 
 5. Response feedback
 
-![alt text](Images/menu2.PNG)
+<img src="Images/menu2.PNG" width="200" height="150" alt="Image description">
 
 ## Installation and Setup
 
