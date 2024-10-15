@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.jlpm.motionmatching": "https://github.com/JLPM22/MotionMatching.git?path=/com.jlpm.motionmatching",
     "com.unity.collab-proxy": "2.3.1",
     "com.unity.feature.development": "1.0.1",
     "com.unity.nuget.newtonsoft-json": "3.2.1",
