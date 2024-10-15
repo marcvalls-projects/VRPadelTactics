@@ -29,11 +29,11 @@ Here you can see how the previously described process looks like:
 
 1. Starting menu interaction
 
-<img src="Images/menu1.PNG" width="200" height="150" alt="Image description">
+<img src="Images/menu1.PNG" width="400" height="300" alt="Image description">
 
 2. Response location choice
 
-<img src="Images/teleport.PNG" width="200" height="150" alt="Image description">
+<img src="Images/teleport.PNG" width="400" height="300" alt="Image description">
 
 3. Target location choice
 
@@ -41,11 +41,11 @@ Here you can see how the previously described process looks like:
 
 4. Maximum height choice
 
-<img src="Images/height.PNG" width="200" height="150" alt="Image description">
+<img src="Images/height.PNG" width="400" height="300" alt="Image description">
 
 5. Response feedback
 
-<img src="Images/menu2.PNG" width="200" height="150" alt="Image description">
+<img src="Images/menu2.PNG" width="400" height="300" alt="Image description">
 
 ## Installation and Setup
 
@@ -58,11 +58,11 @@ To install and setup this project:
 
 ## Dependencies
 
-- Unity 2022.3.22f1
-- XR Core Utilities 2.3.0
-- XR Interaction Toolkit 3.0.3
-- XR Legacy Input Helpers 2.1.10
-- XR Plugin Management 4.4.1
+- Unity `2022.3.22f1`
+- XR Core Utilities `2.3.0`
+- XR Interaction Toolkit `3.0.3`
+- XR Legacy Input Helpers `2.1.10`
+- XR Plugin Management `4.4.1`
 
 ## Implementation details
 
