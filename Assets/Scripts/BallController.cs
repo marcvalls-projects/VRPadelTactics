@@ -507,7 +507,7 @@ public class BallController : MonoBehaviour
         StartCoroutine(uiController.ExecuteFadeAction(() =>
         {
             selfTransform.position = position;
-            cameraOffset.transform.localPosition = new Vector3(0, 1.4f, 0);
+            cameraTransform.localPosition = Vector3.Zero;
         }));
     }
     
