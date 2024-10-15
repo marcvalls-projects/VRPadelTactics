@@ -37,7 +37,7 @@ Here you can see how the previously described process looks like:
 
 3. Target location choice
 
-<img src="Images/target.PNG" width="200" height="150" alt="Image description">
+<img src="Images/target.PNG" width="400" height="300" alt="Image description">
 
 4. Maximum height choice
 
