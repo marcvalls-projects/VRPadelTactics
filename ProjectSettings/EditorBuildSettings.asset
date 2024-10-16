@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/prj.unity
+    path: Assets/Scenes/Court.unity
     guid: ca90dda0f3e82b641adfa8c1174b05aa
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 6f1352534dc4c644ea2eb864c8bdc4b7, type: 3}
