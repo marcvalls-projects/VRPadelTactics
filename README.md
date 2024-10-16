@@ -54,7 +54,8 @@ To install and setup this project:
 1. Clone the repository: `git clone git@github.com:mvalls2/VRPadelTactics.git`
 2. Install the latest Unity Hub version.
 3. Install the required version of the Unity Editor, Unity will take care of any other dependency.
-4. Run it for the first time from Unity's Editor itself to create the path database required.
+4. Select the Court scene, in Assets/Scenes
+6. Run it for the first time from Unity's Editor itself to create the path database required.
 
 ## Dependencies
 
